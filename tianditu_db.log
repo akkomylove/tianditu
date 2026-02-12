@@ -1,0 +1,1032 @@
+2026-02-12 15:26:52,795 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:38:15,980 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:40:18,469 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:40:18,735 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 15:40:18,741 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 15:40:18,747 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 15:40:18,753 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 15:40:18,759 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 15:40:18,921 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 15:40:29,865 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 15:41:16,430 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:41:16,673 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 15:41:16,673 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 15:41:16,674 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 15:41:16,674 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 15:41:16,675 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 15:41:16,821 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 15:42:00,028 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 15:52:21,080 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:52:21,455 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 15:52:21,455 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 15:52:21,456 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 15:52:21,456 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 15:52:21,456 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 15:56:09,268 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:56:09,545 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 15:56:09,546 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 15:56:09,546 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 15:56:09,547 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 15:56:09,594 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 15:58:15,202 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:58:15,447 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 15:58:15,448 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 15:58:15,449 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 15:58:15,450 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 15:58:15,450 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 15:58:15,586 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 15:58:31,044 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 15:59:53,122 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 15:59:53,375 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 15:59:53,375 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 15:59:53,376 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 15:59:53,376 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 15:59:53,377 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 15:59:53,526 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:00:33,179 - data_validator - ERROR - data_validator.py:84 - ❌ 文件路径包含非法字符：:（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_160032_wax0sm\tiles）
+2026-02-12 16:00:33,180 - image_fetcher - INFO - image_fetcher.py:58 - 瓦片范围：x[53390~53394], y[28438~28442], zoom=16
+2026-02-12 16:00:34,294 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53390_28438.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28438&tilecol=53390&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:35,381 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53390_28439.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28439&tilecol=53390&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:36,462 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53390_28440.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28440&tilecol=53390&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:37,536 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53390_28441.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28441&tilecol=53390&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:38,621 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53390_28442.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28442&tilecol=53390&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:39,707 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53391_28438.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28438&tilecol=53391&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:40,797 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53391_28439.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28439&tilecol=53391&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:41,882 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53391_28440.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28440&tilecol=53391&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:42,974 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53391_28441.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28441&tilecol=53391&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:44,050 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53391_28442.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28442&tilecol=53391&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:45,128 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53392_28438.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28438&tilecol=53392&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:46,223 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53392_28439.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28439&tilecol=53392&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:47,314 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53392_28440.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28440&tilecol=53392&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:48,416 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53392_28441.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28441&tilecol=53392&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:49,517 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53392_28442.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28442&tilecol=53392&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:50,606 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53393_28438.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28438&tilecol=53393&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:51,695 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53393_28439.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28439&tilecol=53393&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:52,777 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53393_28440.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28440&tilecol=53393&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:53,879 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53393_28441.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28441&tilecol=53393&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:54,970 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53393_28442.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28442&tilecol=53393&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:56,093 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53394_28438.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28438&tilecol=53394&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:57,169 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53394_28439.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28439&tilecol=53394&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:58,270 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53394_28440.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28440&tilecol=53394&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:00:59,351 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53394_28441.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28441&tilecol=53394&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:00,427 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_53394_28442.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=28442&tilecol=53394&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:00,428 - image_fetcher - INFO - image_fetcher.py:129 - 批量写入瓦片信息到数据库（共25条）
+2026-02-12 16:01:00,438 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：25
+2026-02-12 16:01:00,443 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:01:00,443 - image_fetcher - INFO - image_fetcher.py:138 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:01:00,444 - image_fetcher - ERROR - image_fetcher.py:144 - 未成功下载任何瓦片！
+2026-02-12 16:01:15,625 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:01:18,202 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:01:25,433 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:01:28,111 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_160032_wax0sm）
+2026-02-12 16:01:28,112 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_160032_wax0sm
+2026-02-12 16:01:29,189 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:01:48,807 - data_validator - ERROR - data_validator.py:84 - ❌ 文件路径包含非法字符：:（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_160147_1fniy6\tiles）
+2026-02-12 16:01:48,808 - image_fetcher - INFO - image_fetcher.py:58 - 瓦片范围：x[54064~54067], y[24786~24791], zoom=16
+2026-02-12 16:01:49,901 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54064_24786.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24786&tilecol=54064&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:50,997 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54064_24787.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24787&tilecol=54064&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:52,100 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54064_24788.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24788&tilecol=54064&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:53,205 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54064_24789.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24789&tilecol=54064&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:54,292 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54064_24790.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24790&tilecol=54064&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:55,398 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54064_24791.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24791&tilecol=54064&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:56,476 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54065_24786.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24786&tilecol=54065&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:57,582 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54065_24787.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24787&tilecol=54065&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:58,690 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54065_24788.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24788&tilecol=54065&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:01:59,796 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54065_24789.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24789&tilecol=54065&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:00,887 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54065_24790.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24790&tilecol=54065&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:01,994 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54065_24791.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24791&tilecol=54065&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:03,094 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54066_24786.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24786&tilecol=54066&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:04,188 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54066_24787.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24787&tilecol=54066&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:05,272 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54066_24788.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24788&tilecol=54066&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:06,360 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54066_24789.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24789&tilecol=54066&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:07,469 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54066_24790.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24790&tilecol=54066&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:08,545 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54066_24791.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24791&tilecol=54066&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:09,641 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54067_24786.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24786&tilecol=54067&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:10,721 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54067_24787.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24787&tilecol=54067&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:11,806 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54067_24788.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24788&tilecol=54067&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:12,904 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54067_24789.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24789&tilecol=54067&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:13,990 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54067_24790.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24790&tilecol=54067&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:15,067 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：16_54067_24791.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'vec_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=vec_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=16&tilerow=24791&tilecol=54067&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:02:15,068 - image_fetcher - INFO - image_fetcher.py:129 - 批量写入瓦片信息到数据库（共24条）
+2026-02-12 16:02:15,070 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：24
+2026-02-12 16:02:15,074 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:02:15,074 - image_fetcher - INFO - image_fetcher.py:138 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:02:15,075 - image_fetcher - ERROR - image_fetcher.py:144 - 未成功下载任何瓦片！
+2026-02-12 16:02:19,507 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:03:26,680 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:03:26,680 - image_fetcher - INFO - image_fetcher.py:58 - 瓦片范围：x[26969~26972], y[12405~12408], zoom=15
+2026-02-12 16:03:27,791 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26969_12405.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12405&tilecol=26969&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:28,871 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26969_12406.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12406&tilecol=26969&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:29,980 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26969_12407.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12407&tilecol=26969&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:31,080 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26969_12408.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12408&tilecol=26969&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:32,189 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26970_12405.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12405&tilecol=26970&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:33,269 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26970_12406.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12406&tilecol=26970&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:34,376 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26970_12407.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12407&tilecol=26970&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:35,451 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26970_12408.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12408&tilecol=26970&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:36,557 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26971_12405.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12405&tilecol=26971&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:37,633 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26971_12406.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12406&tilecol=26971&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:38,716 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26971_12407.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12407&tilecol=26971&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:39,817 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26971_12408.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12408&tilecol=26971&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:40,902 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26972_12405.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12405&tilecol=26972&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:42,006 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26972_12406.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12406&tilecol=26972&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:43,086 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26972_12407.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12407&tilecol=26972&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:44,187 - image_fetcher - WARNING - image_fetcher.py:114 - 下载瓦片失败：15_26972_12408.png，错误：418 Client Error:  for url: http://t0.tianditu.gov.cn/%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D/wmts?service=WMTS&request=GetTile&version=1.0.0&layer=%7B'code':%20'img_w',%20'url_template':%20'https://t0.tianditu.gov.cn/DataServer?T=img_w&x=%7Bx%7D&y=%7By%7D&l=%7Bz%7D&tk=9447e4e09088ad3920ab9babbbf35ddd'%7D&style=default&tilematrixset=w&tilematrix=15&tilerow=12408&tilecol=26972&format=tiles&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 16:03:44,188 - image_fetcher - INFO - image_fetcher.py:129 - 批量写入瓦片信息到数据库（共16条）
+2026-02-12 16:03:44,191 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：16
+2026-02-12 16:03:44,197 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:03:44,197 - image_fetcher - INFO - image_fetcher.py:138 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:03:44,198 - image_fetcher - ERROR - image_fetcher.py:144 - 未成功下载任何瓦片！
+2026-02-12 16:09:44,215 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:09:44,216 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[26969~26972], y[12405~12408], zoom=15
+2026-02-12 16:09:44,329 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26969_12405.png
+2026-02-12 16:09:44,417 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26969_12406.png
+2026-02-12 16:09:44,524 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26969_12407.png
+2026-02-12 16:09:44,636 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26969_12408.png
+2026-02-12 16:09:44,723 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26970_12405.png
+2026-02-12 16:09:44,845 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26970_12406.png
+2026-02-12 16:09:44,933 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26970_12407.png
+2026-02-12 16:09:45,044 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26970_12408.png
+2026-02-12 16:09:45,135 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26971_12405.png
+2026-02-12 16:09:45,244 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26971_12406.png
+2026-02-12 16:09:45,352 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26971_12407.png
+2026-02-12 16:09:45,436 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26971_12408.png
+2026-02-12 16:09:45,527 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26972_12405.png
+2026-02-12 16:09:45,621 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26972_12406.png
+2026-02-12 16:09:45,711 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26972_12407.png
+2026-02-12 16:09:45,820 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：15_26972_12408.png
+2026-02-12 16:09:45,821 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共16条）
+2026-02-12 16:09:45,825 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：16
+2026-02-12 16:09:45,835 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:09:45,835 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:09:45,836 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功16条，总计16条
+2026-02-12 16:09:51,335 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:09:51,578 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:09:51,579 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:09:51,579 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:09:51,579 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:09:51,580 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:09:51,729 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:09:54,810 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:09:56,657 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:10:00,721 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_160147_1fniy6）
+2026-02-12 16:10:00,723 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_160147_1fniy6
+2026-02-12 16:10:01,513 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:10:33,936 - data_validator - ERROR - data_validator.py:84 - ❌ 文件路径包含非法字符：:（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161032_n4el62\tiles）
+2026-02-12 16:10:33,936 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[13347~13348], y[7109~7110], zoom=14
+2026-02-12 16:10:34,026 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13347_7109.png
+2026-02-12 16:10:34,136 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13347_7110.png
+2026-02-12 16:10:34,242 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13348_7109.png
+2026-02-12 16:10:34,348 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13348_7110.png
+2026-02-12 16:10:34,349 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共4条）
+2026-02-12 16:10:34,351 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：4
+2026-02-12 16:10:34,355 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:10:34,355 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:10:34,355 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功4条，总计4条
+2026-02-12 16:10:34,373 - data_validator - ERROR - data_validator.py:84 - ❌ 文件路径包含非法字符：:（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161032_n4el62\merged_map.jpg）
+2026-02-12 16:10:34,374 - data_validator - ERROR - data_validator.py:84 - ❌ 文件路径包含非法字符：:（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161032_n4el62\tiles）
+2026-02-12 16:10:34,374 - image_merger - ERROR - image_merger.py:28 - 瓦片文件夹校验失败
+2026-02-12 16:10:45,006 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:17:40,621 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:17:40,870 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:17:40,870 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:17:40,871 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:17:40,871 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:17:40,871 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:17:41,021 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:17:44,209 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:17:47,009 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_161032_n4el62）
+2026-02-12 16:17:47,013 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161032_n4el62
+2026-02-12 16:17:47,986 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:18:03,412 - data_validator - ERROR - data_validator.py:97 - ❌ 文件路径包含非法字符：\（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161802_0g856m\tiles）
+2026-02-12 16:18:03,412 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[13347~13348], y[7109~7110], zoom=14
+2026-02-12 16:18:03,522 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13347_7109.png
+2026-02-12 16:18:03,627 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13347_7110.png
+2026-02-12 16:18:03,747 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13348_7109.png
+2026-02-12 16:18:03,832 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13348_7110.png
+2026-02-12 16:18:03,833 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共4条）
+2026-02-12 16:18:03,834 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：4
+2026-02-12 16:18:03,838 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:18:03,838 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:18:03,839 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功4条，总计4条
+2026-02-12 16:18:03,858 - data_validator - ERROR - data_validator.py:97 - ❌ 文件路径包含非法字符：\（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161802_0g856m\merged_map.jpg）
+2026-02-12 16:18:03,859 - data_validator - ERROR - data_validator.py:97 - ❌ 文件路径包含非法字符：\（路径：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161802_0g856m\merged_map.jpg）
+2026-02-12 16:18:03,859 - image_merger - ERROR - image_merger.py:30 - 输出路径校验失败
+2026-02-12 16:18:12,836 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:20:05,476 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:20:05,731 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:20:05,732 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:20:05,732 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:20:05,733 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:20:05,733 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:20:05,878 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:20:18,503 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[13347~13348], y[7109~7110], zoom=14
+2026-02-12 16:20:18,606 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13347_7109.png
+2026-02-12 16:20:18,721 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13347_7110.png
+2026-02-12 16:20:18,830 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13348_7109.png
+2026-02-12 16:20:18,936 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：14_13348_7110.png
+2026-02-12 16:20:18,937 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共4条）
+2026-02-12 16:20:18,939 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：4
+2026-02-12 16:20:18,944 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:20:18,944 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:20:18,944 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功4条，总计4条
+2026-02-12 16:20:19,076 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_162017_p5g9xe\merged_map.jpg
+2026-02-12 16:20:19,077 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_162017_p5g9xe）
+2026-02-12 16:20:19,083 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 16:20:19,107 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 16:20:22,231 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 16:20:26,110 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 16:20:26,110 - db_utils - ERROR - gui_main.py:526 - ❌ 分析+报告写入事务回滚：cannot access local variable 'analysis_result' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\gui_main.py", line 501, in run_analysis_report_with_transaction
+    "insights": self.generate_insights(analysis_result)
+                                       ^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'analysis_result' where it is not associated with a value
+2026-02-12 16:20:34,161 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-12 16:20:36,761 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:20:38,793 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:20:57,784 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:26:07,957 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:26:08,210 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:26:08,210 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:26:08,211 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:26:08,211 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:26:08,212 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:26:08,359 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-12 16:26:19,838 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[208~208], y[111~111], zoom=8
+2026-02-12 16:26:19,924 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：8_208_111.png
+2026-02-12 16:26:19,924 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:26:19,926 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:26:19,931 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:26:19,931 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:26:19,932 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:26:19,987 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_162618_ngtbb4\merged_map.jpg
+2026-02-12 16:26:19,988 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_162618_ngtbb4）
+2026-02-12 16:26:19,994 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 16:26:20,013 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 16:26:23,135 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 16:26:26,956 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 16:26:26,957 - db_utils - ERROR - gui_main.py:529 - ❌ 分析+报告写入事务回滚：cannot access local variable 'analysis_result' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\gui_main.py", line 502, in run_analysis_report_with_transaction
+    "insights": self.generate_insights(analysis_result)
+                                       ^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'analysis_result' where it is not associated with a value
+2026-02-12 16:26:32,595 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:26:44,313 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:26:44,597 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:26:44,598 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:26:44,599 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:26:44,599 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:26:44,600 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:26:44,749 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共3条
+2026-02-12 16:26:51,903 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[3336~3336], y[1777~1777], zoom=12
+2026-02-12 16:26:51,996 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：12_3336_1777.png
+2026-02-12 16:26:51,997 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:26:51,999 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:26:52,003 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:26:52,003 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:26:52,004 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:26:52,058 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_162650_6vh9qb\merged_map.jpg
+2026-02-12 16:26:52,059 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_162650_6vh9qb）
+2026-02-12 16:26:52,074 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 16:26:52,095 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 16:26:55,295 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 16:26:59,041 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 16:26:59,041 - db_utils - ERROR - gui_main.py:529 - ❌ 分析+报告写入事务回滚：cannot access local variable 'analysis_result' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\gui_main.py", line 502, in run_analysis_report_with_transaction
+    "insights": self.generate_insights(analysis_result)
+                                       ^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'analysis_result' where it is not associated with a value
+2026-02-12 16:27:03,245 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:31:10,773 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:31:11,057 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:31:11,058 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:31:11,058 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:31:11,059 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:31:11,059 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:31:11,224 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共4条
+2026-02-12 16:31:19,446 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[208~208], y[111~111], zoom=8
+2026-02-12 16:31:19,554 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：8_208_111.png
+2026-02-12 16:31:19,555 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:31:19,557 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:31:19,561 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:31:19,561 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:31:19,562 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:31:19,616 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163118_ve4tl3\merged_map.jpg
+2026-02-12 16:31:19,617 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_163118_ve4tl3）
+2026-02-12 16:31:19,623 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 16:31:19,643 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 16:31:22,778 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 16:31:26,573 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 16:31:26,574 - visualization - INFO - visualization.py:214 - 报告保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163118_ve4tl3\analysis_report.html
+2026-02-12 16:31:26,575 - visualization - INFO - visualization.py:218 - 写入报告信息到数据库（operation_id：20260212_163118_ve4tl3）
+2026-02-12 16:31:26,580 - visualization - INFO - visualization.py:238 - 报告信息写入数据库成功
+2026-02-12 16:31:26,586 - visualization - INFO - visualization.py:250 - 分析洞察更新到数据库成功
+2026-02-12 16:31:26,587 - db_utils - INFO - gui_main.py:524 - ✅ 分析+报告写入事务提交成功
+2026-02-12 16:31:26,601 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共5条
+2026-02-12 16:31:32,012 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共5条
+2026-02-12 16:31:34,081 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:31:51,181 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_162650_6vh9qb）
+2026-02-12 16:31:51,209 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_162650_6vh9qb
+2026-02-12 16:31:52,236 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共4条
+2026-02-12 16:31:56,198 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_162618_ngtbb4）
+2026-02-12 16:31:56,211 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_162618_ngtbb4
+2026-02-12 16:31:57,002 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共3条
+2026-02-12 16:31:59,543 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_162017_p5g9xe）
+2026-02-12 16:31:59,557 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_162017_p5g9xe
+2026-02-12 16:32:00,106 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-12 16:32:02,550 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_161802_0g856m）
+2026-02-12 16:32:02,553 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_161802_0g856m
+2026-02-12 16:32:03,116 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:32:20,918 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_163118_ve4tl3）
+2026-02-12 16:32:20,930 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163118_ve4tl3
+2026-02-12 16:32:21,640 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:32:38,584 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[54064~54067], y[24786~24791], zoom=16
+2026-02-12 16:32:38,668 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54064_24786.png
+2026-02-12 16:32:38,779 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54064_24787.png
+2026-02-12 16:32:38,894 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54064_24788.png
+2026-02-12 16:32:39,004 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54064_24789.png
+2026-02-12 16:32:39,113 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54064_24790.png
+2026-02-12 16:32:39,220 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54064_24791.png
+2026-02-12 16:32:39,307 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54065_24786.png
+2026-02-12 16:32:39,398 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54065_24787.png
+2026-02-12 16:32:39,501 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54065_24788.png
+2026-02-12 16:32:39,588 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54065_24789.png
+2026-02-12 16:32:39,682 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54065_24790.png
+2026-02-12 16:32:39,793 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54065_24791.png
+2026-02-12 16:32:39,894 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54066_24786.png
+2026-02-12 16:32:39,976 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54066_24787.png
+2026-02-12 16:32:40,062 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54066_24788.png
+2026-02-12 16:32:40,154 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54066_24789.png
+2026-02-12 16:32:40,252 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54066_24790.png
+2026-02-12 16:32:40,359 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54066_24791.png
+2026-02-12 16:32:40,450 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54067_24786.png
+2026-02-12 16:32:40,537 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54067_24787.png
+2026-02-12 16:32:40,624 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54067_24788.png
+2026-02-12 16:32:40,729 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54067_24789.png
+2026-02-12 16:32:40,839 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54067_24790.png
+2026-02-12 16:32:40,929 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：16_54067_24791.png
+2026-02-12 16:32:40,930 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共24条）
+2026-02-12 16:32:40,931 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：24
+2026-02-12 16:32:40,935 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:32:40,936 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:32:40,936 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功24条，总计24条
+2026-02-12 16:32:41,015 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163237_4ltlxd\merged_map.jpg
+2026-02-12 16:32:41,016 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_163237_4ltlxd）
+2026-02-12 16:32:41,022 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 16:32:41,036 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 16:32:44,256 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 16:32:48,019 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 16:32:48,020 - visualization - INFO - visualization.py:214 - 报告保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163237_4ltlxd\analysis_report.html
+2026-02-12 16:32:48,021 - visualization - INFO - visualization.py:218 - 写入报告信息到数据库（operation_id：20260212_163237_4ltlxd）
+2026-02-12 16:32:48,027 - visualization - INFO - visualization.py:238 - 报告信息写入数据库成功
+2026-02-12 16:32:48,033 - visualization - INFO - visualization.py:250 - 分析洞察更新到数据库成功
+2026-02-12 16:32:48,034 - db_utils - INFO - gui_main.py:524 - ✅ 分析+报告写入事务提交成功
+2026-02-12 16:32:48,053 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:32:53,114 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:33:07,619 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_163237_4ltlxd）
+2026-02-12 16:33:07,651 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163237_4ltlxd
+2026-02-12 16:33:08,629 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:33:09,796 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:35:27,536 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:35:27,537 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[26969~26972], y[12405~12408], zoom=15
+2026-02-12 16:35:27,538 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26969_12405.png
+2026-02-12 16:35:27,538 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26969_12406.png
+2026-02-12 16:35:27,539 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26969_12407.png
+2026-02-12 16:35:27,539 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26969_12408.png
+2026-02-12 16:35:27,539 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26970_12405.png
+2026-02-12 16:35:27,540 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26970_12406.png
+2026-02-12 16:35:27,540 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26970_12407.png
+2026-02-12 16:35:27,541 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26970_12408.png
+2026-02-12 16:35:27,542 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26971_12405.png
+2026-02-12 16:35:27,543 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26971_12406.png
+2026-02-12 16:35:27,543 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26971_12407.png
+2026-02-12 16:35:27,544 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26971_12408.png
+2026-02-12 16:35:27,544 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26972_12405.png
+2026-02-12 16:35:27,545 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26972_12406.png
+2026-02-12 16:35:27,545 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26972_12407.png
+2026-02-12 16:35:27,546 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：15_26972_12408.png
+2026-02-12 16:35:27,546 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共16条）
+2026-02-12 16:35:27,548 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：16
+2026-02-12 16:35:27,554 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:35:27,554 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:35:27,555 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功16条，总计16条
+2026-02-12 16:36:09,623 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:36:09,624 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[842~842], y[387~387], zoom=10
+2026-02-12 16:36:09,744 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：10_842_387.png
+2026-02-12 16:36:09,745 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:36:09,747 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:36:09,753 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:36:09,753 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:36:09,753 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:36:35,776 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:36:35,777 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 16:36:35,906 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：6_52_24.png
+2026-02-12 16:36:35,906 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:36:35,909 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:36:35,915 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:36:35,916 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:36:35,916 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:37:04,228 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:37:04,229 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 16:37:04,230 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：6_52_24.png
+2026-02-12 16:37:04,230 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:37:04,238 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:37:04,245 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:37:04,245 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:37:04,245 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:37:56,768 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:37:56,768 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 16:37:56,769 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：6_52_24.png
+2026-02-12 16:37:56,769 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:37:56,771 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:37:56,777 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:37:56,777 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:37:56,777 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:38:27,960 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:38:27,960 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 16:38:27,961 - image_fetcher - INFO - image_fetcher.py:80 - 跳过已下载的瓦片：6_52_24.png
+2026-02-12 16:38:27,962 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:38:27,964 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:38:27,977 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:38:27,977 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:38:27,977 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:39:12,324 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:39:12,584 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 16:39:12,585 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 16:39:12,585 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 16:39:12,585 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 16:39:12,586 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 16:39:12,744 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:39:26,190 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[3336~3336], y[1777~1777], zoom=12
+2026-02-12 16:39:26,296 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：12_3336_1777.png
+2026-02-12 16:39:26,297 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:39:26,300 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:39:26,304 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:39:26,304 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:39:26,305 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:39:26,365 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163925_cfkey5\merged_map.jpg
+2026-02-12 16:39:26,366 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_163925_cfkey5）
+2026-02-12 16:39:26,374 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 16:39:26,397 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 16:39:26,865 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:39:29,607 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 16:39:30,144 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:39:33,439 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 16:39:33,441 - visualization - INFO - visualization.py:214 - 报告保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163925_cfkey5\analysis_report.html
+2026-02-12 16:39:33,441 - visualization - INFO - visualization.py:218 - 写入报告信息到数据库（operation_id：20260212_163925_cfkey5）
+2026-02-12 16:39:33,447 - visualization - INFO - visualization.py:238 - 报告信息写入数据库成功
+2026-02-12 16:39:33,452 - visualization - INFO - visualization.py:250 - 分析洞察更新到数据库成功
+2026-02-12 16:39:33,453 - db_utils - INFO - gui_main.py:524 - ✅ 分析+报告写入事务提交成功
+2026-02-12 16:39:33,466 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:39:36,483 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 16:39:50,183 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_163925_cfkey5）
+2026-02-12 16:39:50,194 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_163925_cfkey5
+2026-02-12 16:39:51,213 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 16:39:52,571 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-12 16:47:05,181 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:47:05,182 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 16:47:05,301 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：6_52_24.png
+2026-02-12 16:47:05,302 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:47:05,309 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:47:05,315 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:47:05,315 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:47:05,315 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 16:47:37,237 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 16:47:37,237 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 16:47:37,354 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：6_52_24.png
+2026-02-12 16:47:37,354 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 16:47:37,357 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 16:47:37,363 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 16:47:37,363 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 16:47:37,363 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 17:02:21,106 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:02:21,107 - db_utils - INFO - init_db.py:121 - ==================================================
+2026-02-12 17:02:21,107 - db_utils - INFO - init_db.py:122 - 🌍 开始初始化天地图分析工具数据库
+2026-02-12 17:02:21,107 - db_utils - INFO - init_db.py:123 - ==================================================
+2026-02-12 17:02:21,118 - db_utils - INFO - init_db.py:114 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 17:02:21,118 - db_utils - INFO - init_db.py:114 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 17:02:21,119 - db_utils - INFO - init_db.py:114 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 17:02:21,119 - db_utils - INFO - init_db.py:114 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 17:02:21,120 - db_utils - INFO - init_db.py:114 - ✅ 报告表创建成功（或已存在）
+2026-02-12 17:02:21,120 - db_utils - INFO - init_db.py:125 - ==================================================
+2026-02-12 17:02:21,121 - db_utils - INFO - init_db.py:126 - 🌍 数据库初始化完成
+2026-02-12 17:02:21,121 - db_utils - INFO - init_db.py:127 - ==================================================
+2026-02-12 17:04:28,107 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:04:28,107 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 17:04:28,228 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：6_52_24.png
+2026-02-12 17:04:28,228 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 17:04:28,231 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 17:04:28,237 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:04:28,237 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 17:04:28,238 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 17:07:22,025 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:07:22,025 - image_fetcher - INFO - image_fetcher.py:57 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 17:07:22,141 - image_fetcher - WARNING - image_fetcher.py:115 - 下载瓦片失败：6_52_24.png，错误：404 Client Error: Not Found for url: http://t0.tianditu.gov.cn/vec_w/6/52/24.png?tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:07:22,142 - image_fetcher - INFO - image_fetcher.py:123 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 17:07:22,144 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 17:07:22,150 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:07:22,150 - image_fetcher - ERROR - image_fetcher.py:134 - 未成功下载任何瓦片！
+2026-02-12 17:07:49,296 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:07:49,297 - image_fetcher - INFO - image_fetcher.py:57 - 瓦片范围：x[3371~3371], y[1550~1551], zoom=12
+2026-02-12 17:07:49,412 - image_fetcher - WARNING - image_fetcher.py:115 - 下载瓦片失败：12_3371_1550.png，错误：404 Client Error: Not Found for url: http://t0.tianditu.gov.cn/vec_w/12/3371/1550.png?tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:07:49,501 - image_fetcher - WARNING - image_fetcher.py:115 - 下载瓦片失败：12_3371_1551.png，错误：404 Client Error: Not Found for url: http://t0.tianditu.gov.cn/vec_w/12/3371/1551.png?tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:07:49,501 - image_fetcher - INFO - image_fetcher.py:123 - 批量写入瓦片信息到数据库（共2条）
+2026-02-12 17:07:49,505 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：2
+2026-02-12 17:07:49,511 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:07:49,511 - image_fetcher - ERROR - image_fetcher.py:134 - 未成功下载任何瓦片！
+2026-02-12 17:15:25,239 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:15:25,239 - image_fetcher - INFO - image_fetcher.py:59 - 瓦片范围：x[52~52], y[24~24], zoom=6
+2026-02-12 17:15:25,374 - image_fetcher - INFO - image_fetcher.py:101 - 下载瓦片成功：6_52_24.png
+2026-02-12 17:15:25,374 - image_fetcher - INFO - image_fetcher.py:130 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 17:15:25,382 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 17:15:25,388 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:15:25,388 - image_fetcher - INFO - image_fetcher.py:139 - 所有瓦片信息批量写入数据库成功
+2026-02-12 17:15:25,388 - image_fetcher - INFO - image_fetcher.py:147 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 17:25:16,169 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:25:16,170 - image_fetcher - INFO - image_fetcher.py:45 - 瓦片范围：x[3371~3371], y[1550~1551], zoom=12
+2026-02-12 17:25:16,277 - image_fetcher - WARNING - image_fetcher.py:113 - 下载瓦片失败：12_3371_1550.png，错误：403 Client Error: Forbidden for url: http://t0.tianditu.gov.cn/vec_w/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=vec_w&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX=12&TILEROW=1550&TILECOL=3371&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:25:16,374 - image_fetcher - WARNING - image_fetcher.py:113 - 下载瓦片失败：12_3371_1551.png，错误：403 Client Error: Forbidden for url: http://t0.tianditu.gov.cn/vec_w/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=vec_w&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX=12&TILEROW=1551&TILECOL=3371&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:25:16,375 - image_fetcher - INFO - image_fetcher.py:121 - 批量写入瓦片信息到数据库（共2条）
+2026-02-12 17:25:16,377 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：2
+2026-02-12 17:25:16,384 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:25:16,384 - image_fetcher - ERROR - image_fetcher.py:132 - 未成功下载任何瓦片！
+2026-02-12 17:26:36,669 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:26:36,669 - image_fetcher - INFO - image_fetcher.py:45 - 瓦片范围：x[3371~3371], y[1550~1551], zoom=12
+2026-02-12 17:26:36,780 - image_fetcher - INFO - image_fetcher.py:103 - 下载瓦片成功：12_3371_1550.png
+2026-02-12 17:26:36,869 - image_fetcher - INFO - image_fetcher.py:103 - 下载瓦片成功：12_3371_1551.png
+2026-02-12 17:26:36,869 - image_fetcher - INFO - image_fetcher.py:118 - 批量写入瓦片信息到数据库（共2条）
+2026-02-12 17:26:36,872 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：2
+2026-02-12 17:26:36,882 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:26:36,883 - image_fetcher - INFO - image_fetcher.py:131 - 瓦片下载完成：成功2条，总计2条
+2026-02-12 17:30:59,712 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:30:59,712 - image_fetcher - INFO - image_fetcher.py:52 - 瓦片范围（翻转后）：x[3371~3371], y[2544~2545], zoom=12
+2026-02-12 17:30:59,831 - image_fetcher - INFO - image_fetcher.py:109 - 下载瓦片成功：12_3371_2544.png | URL：http://t0.tianditu.gov.cn/vec_w/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=vec&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX=12&TILEROW=2544&TILECOL=3371&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:30:59,943 - image_fetcher - INFO - image_fetcher.py:109 - 下载瓦片成功：12_3371_2545.png | URL：http://t0.tianditu.gov.cn/vec_w/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=vec&STYLE=default&TILEMATRIXSET=w&FORMAT=tiles&TILEMATRIX=12&TILEROW=2545&TILECOL=3371&tk=9447e4e09088ad3920ab9babbbf35ddd
+2026-02-12 17:30:59,944 - image_fetcher - INFO - image_fetcher.py:124 - 批量写入瓦片信息到数据库（共2条）
+2026-02-12 17:30:59,946 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：2
+2026-02-12 17:30:59,952 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:30:59,952 - image_fetcher - INFO - image_fetcher.py:137 - 瓦片下载完成：成功2条，总计2条
+2026-02-12 17:38:42,665 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:38:42,665 - image_fetcher - INFO - image_fetcher.py:49 - 瓦片范围：TileCol[3371~3371], TileRow[1550~1551], zoom=12
+2026-02-12 17:38:42,926 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：12_3371_1550.png
+2026-02-12 17:38:43,142 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：12_3371_1551.png
+2026-02-12 17:38:43,142 - image_fetcher - INFO - image_fetcher.py:119 - 批量写入瓦片信息到数据库（共2条）
+2026-02-12 17:38:43,151 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：2
+2026-02-12 17:38:43,158 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:38:43,158 - image_fetcher - INFO - image_fetcher.py:133 - 瓦片下载完成：成功2条，总计2条
+2026-02-12 17:43:41,656 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:43:41,937 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：duplicate column name: tile_download_progress
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: duplicate column name: tile_download_progress
+2026-02-12 17:43:41,938 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：duplicate column name: tile_download_progress
+2026-02-12 17:43:42,949 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：duplicate column name: tile_download_progress
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: duplicate column name: tile_download_progress
+2026-02-12 17:43:42,952 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：duplicate column name: tile_download_progress
+2026-02-12 17:43:43,955 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：duplicate column name: tile_download_progress
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: duplicate column name: tile_download_progress
+2026-02-12 17:43:43,956 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：duplicate column name: tile_download_progress
+2026-02-12 17:43:43,956 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-12 17:45:03,188 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-12 17:45:03,434 - db_utils - INFO - init_db.py:112 - ✅ 操作主表创建成功（或已存在）
+2026-02-12 17:45:03,435 - db_utils - INFO - init_db.py:112 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-12 17:45:03,435 - db_utils - INFO - init_db.py:112 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-12 17:45:03,436 - db_utils - INFO - init_db.py:112 - ✅ 分析结果表创建成功（或已存在）
+2026-02-12 17:45:03,436 - db_utils - INFO - init_db.py:112 - ✅ 报告表创建成功（或已存在）
+2026-02-12 17:45:03,626 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 17:45:07,162 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-12 17:45:13,460 - image_fetcher - INFO - image_fetcher.py:49 - 瓦片范围：TileCol[3336~3336], TileRow[1777~1777], zoom=12
+2026-02-12 17:45:13,635 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：12_3336_1777.png
+2026-02-12 17:45:13,635 - image_fetcher - INFO - image_fetcher.py:119 - 批量写入瓦片信息到数据库（共1条）
+2026-02-12 17:45:13,637 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-12 17:45:13,642 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-12 17:45:13,642 - image_fetcher - INFO - image_fetcher.py:133 - 瓦片下载完成：成功1条，总计1条
+2026-02-12 17:45:13,738 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_174512_g3h7a5\merged_map.jpg
+2026-02-12 17:45:13,739 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260212_174512_g3h7a5）
+2026-02-12 17:45:13,745 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-12 17:45:13,766 - data_analyzer - INFO - data_analyzer.py:75 - 开始交通POI分析
+2026-02-12 17:45:17,012 - data_analyzer - INFO - data_analyzer.py:112 - 开始文化POI分析
+2026-02-12 17:45:20,785 - data_analyzer - INFO - data_analyzer.py:173 - 分析结果写入数据库成功
+2026-02-12 17:45:20,787 - visualization - INFO - visualization.py:214 - 报告保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_174512_g3h7a5\analysis_report.html
+2026-02-12 17:45:20,787 - visualization - INFO - visualization.py:218 - 写入报告信息到数据库（operation_id：20260212_174512_g3h7a5）
+2026-02-12 17:45:20,793 - visualization - INFO - visualization.py:238 - 报告信息写入数据库成功
+2026-02-12 17:45:20,799 - visualization - INFO - visualization.py:250 - 分析洞察更新到数据库成功
+2026-02-12 17:45:20,799 - db_utils - INFO - gui_main.py:524 - ✅ 分析+报告写入事务提交成功
+2026-02-12 17:45:20,814 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 17:45:23,938 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 17:45:27,139 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-12 17:45:39,906 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-13 15:34:32,224 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:34:32,226 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 15:34:38,808 - data_analyzer - INFO - data_analyzer.py:181 - 开始生活服务POI分析
+2026-02-13 15:34:42,737 - data_analyzer - INFO - data_analyzer.py:223 - 开始商业设施POI分析
+2026-02-13 15:34:50,623 - data_analyzer - INFO - data_analyzer.py:263 - 开始教育设施POI分析
+2026-02-13 15:34:53,205 - data_analyzer - INFO - data_analyzer.py:302 - 开始医疗设施POI分析
+2026-02-13 15:34:56,422 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 15:35:01,133 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:35:01,134 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:35:01,134 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:35:02,136 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:35:02,136 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:35:02,137 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:35:03,138 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:35:03,139 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:35:03,139 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:35:03,139 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-13 15:39:35,905 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:39:35,906 - db_utils - INFO - init_db.py:139 - ==================================================
+2026-02-13 15:39:35,906 - db_utils - INFO - init_db.py:140 - 🌍 开始初始化天地图分析工具数据库
+2026-02-13 15:39:35,906 - db_utils - INFO - init_db.py:141 - ==================================================
+2026-02-13 15:39:35,907 - db_utils - INFO - init_db.py:132 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 15:39:35,908 - db_utils - INFO - init_db.py:132 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 15:39:35,908 - db_utils - INFO - init_db.py:132 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 15:39:35,909 - db_utils - INFO - init_db.py:132 - ✅ 分析结果表创建成功（或已存在）
+2026-02-13 15:39:35,909 - db_utils - INFO - init_db.py:132 - ✅ 报告表创建成功（或已存在）
+2026-02-13 15:39:35,910 - db_utils - INFO - init_db.py:143 - ==================================================
+2026-02-13 15:39:35,910 - db_utils - INFO - init_db.py:144 - 🌍 数据库初始化完成
+2026-02-13 15:39:35,910 - db_utils - INFO - init_db.py:145 - ==================================================
+2026-02-13 15:39:48,954 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:39:48,955 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 15:39:55,605 - data_analyzer - INFO - data_analyzer.py:181 - 开始生活服务POI分析
+2026-02-13 15:39:59,610 - data_analyzer - INFO - data_analyzer.py:223 - 开始商业设施POI分析
+2026-02-13 15:40:07,974 - data_analyzer - INFO - data_analyzer.py:263 - 开始教育设施POI分析
+2026-02-13 15:40:10,823 - data_analyzer - INFO - data_analyzer.py:302 - 开始医疗设施POI分析
+2026-02-13 15:40:14,088 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 15:40:18,886 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:40:18,888 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:40:18,888 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:40:19,889 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:40:19,890 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:40:19,890 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:40:20,891 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:40:20,893 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:40:20,894 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:40:20,895 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-13 15:44:14,943 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:44:14,944 - db_utils - INFO - init_db.py:146 - ==================================================
+2026-02-13 15:44:14,944 - db_utils - INFO - init_db.py:147 - 🌍 开始初始化天地图分析工具数据库
+2026-02-13 15:44:14,944 - db_utils - INFO - init_db.py:148 - ==================================================
+2026-02-13 15:44:14,945 - db_utils - INFO - init_db.py:139 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 15:44:14,946 - db_utils - INFO - init_db.py:139 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 15:44:14,946 - db_utils - INFO - init_db.py:139 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 15:44:14,947 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:14,948 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:44:14,948 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：near "COMMENT": syntax error
+2026-02-13 15:44:15,950 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:15,950 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:44:15,951 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：near "COMMENT": syntax error
+2026-02-13 15:44:16,951 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:16,952 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:44:16,952 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：near "COMMENT": syntax error
+2026-02-13 15:44:16,953 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-13 15:44:16,953 - db_utils - ERROR - init_db.py:143 - ❌ 分析结果表创建异常：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\init_db.py", line 137, in create_tables
+    result = db.execute(sql, commit=True)
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:16,955 - db_utils - INFO - init_db.py:139 - ✅ 报告表创建成功（或已存在）
+2026-02-13 15:44:16,955 - db_utils - INFO - init_db.py:150 - ==================================================
+2026-02-13 15:44:16,955 - db_utils - INFO - init_db.py:151 - 🌍 数据库初始化完成
+2026-02-13 15:44:16,955 - db_utils - INFO - init_db.py:152 - ==================================================
+2026-02-13 15:44:26,294 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:44:26,294 - db_utils - INFO - init_db.py:146 - ==================================================
+2026-02-13 15:44:26,295 - db_utils - INFO - init_db.py:147 - 🌍 开始初始化天地图分析工具数据库
+2026-02-13 15:44:26,295 - db_utils - INFO - init_db.py:148 - ==================================================
+2026-02-13 15:44:26,296 - db_utils - INFO - init_db.py:139 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 15:44:26,296 - db_utils - INFO - init_db.py:139 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 15:44:26,297 - db_utils - INFO - init_db.py:139 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 15:44:26,297 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:26,298 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:44:26,299 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：near "COMMENT": syntax error
+2026-02-13 15:44:27,299 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:27,301 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:44:27,301 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：near "COMMENT": syntax error
+2026-02-13 15:44:28,302 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:28,303 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:44:28,303 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：near "COMMENT": syntax error
+2026-02-13 15:44:28,304 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-13 15:44:28,304 - db_utils - ERROR - init_db.py:143 - ❌ 分析结果表创建异常：near "COMMENT": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\init_db.py", line 137, in create_tables
+    result = db.execute(sql, commit=True)
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "COMMENT": syntax error
+2026-02-13 15:44:28,306 - db_utils - INFO - init_db.py:139 - ✅ 报告表创建成功（或已存在）
+2026-02-13 15:44:28,307 - db_utils - INFO - init_db.py:150 - ==================================================
+2026-02-13 15:44:28,307 - db_utils - INFO - init_db.py:151 - 🌍 数据库初始化完成
+2026-02-13 15:44:28,307 - db_utils - INFO - init_db.py:152 - ==================================================
+2026-02-13 15:47:09,841 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:47:09,842 - db_utils - INFO - init_db.py:137 - ==================================================
+2026-02-13 15:47:09,842 - db_utils - INFO - init_db.py:138 - 🌍 开始初始化天地图分析工具数据库
+2026-02-13 15:47:09,842 - db_utils - INFO - init_db.py:139 - ==================================================
+2026-02-13 15:47:09,843 - db_utils - INFO - init_db.py:131 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 15:47:09,844 - db_utils - INFO - init_db.py:131 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 15:47:09,844 - db_utils - INFO - init_db.py:131 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 15:47:09,844 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "INDEX": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "INDEX": syntax error
+2026-02-13 15:47:09,846 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:47:09,846 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：near "INDEX": syntax error
+2026-02-13 15:47:10,847 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "INDEX": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "INDEX": syntax error
+2026-02-13 15:47:10,849 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:47:10,849 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：near "INDEX": syntax error
+2026-02-13 15:47:11,850 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：near "INDEX": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "INDEX": syntax error
+2026-02-13 15:47:11,852 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:47:11,852 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：near "INDEX": syntax error
+2026-02-13 15:47:11,852 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-13 15:47:11,853 - db_utils - ERROR - init_db.py:135 - ❌ 分析结果表创建异常：near "INDEX": syntax error
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\init_db.py", line 129, in create_tables
+    result = db.execute(sql, commit=True)
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 39, in wrapper
+    return func(*args, **kwargs)
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: near "INDEX": syntax error
+2026-02-13 15:47:11,855 - db_utils - INFO - init_db.py:131 - ✅ 报告表创建成功（或已存在）
+2026-02-13 15:47:11,855 - db_utils - INFO - init_db.py:141 - ==================================================
+2026-02-13 15:47:11,855 - db_utils - INFO - init_db.py:142 - 🌍 数据库初始化完成
+2026-02-13 15:47:11,856 - db_utils - INFO - init_db.py:143 - ==================================================
+2026-02-13 15:50:40,013 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:50:40,014 - db_utils - INFO - init_db.py:135 - ==================================================
+2026-02-13 15:50:40,014 - db_utils - INFO - init_db.py:136 - 🌍 开始初始化天地图分析工具数据库
+2026-02-13 15:50:40,015 - db_utils - INFO - init_db.py:137 - ==================================================
+2026-02-13 15:50:40,016 - db_utils - INFO - init_db.py:129 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 15:50:40,017 - db_utils - INFO - init_db.py:129 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 15:50:40,017 - db_utils - INFO - init_db.py:129 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 15:50:40,018 - db_utils - INFO - init_db.py:129 - ✅ 分析结果表创建成功（或已存在）
+2026-02-13 15:50:40,018 - db_utils - INFO - init_db.py:129 - ✅ 报告表创建成功（或已存在）
+2026-02-13 15:50:40,019 - db_utils - INFO - init_db.py:139 - ==================================================
+2026-02-13 15:50:40,019 - db_utils - INFO - init_db.py:140 - 🌍 数据库初始化完成
+2026-02-13 15:50:40,019 - db_utils - INFO - init_db.py:141 - ==================================================
+2026-02-13 15:50:47,831 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:50:47,833 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 15:50:54,256 - data_analyzer - INFO - data_analyzer.py:181 - 开始生活服务POI分析
+2026-02-13 15:50:58,221 - data_analyzer - INFO - data_analyzer.py:223 - 开始商业设施POI分析
+2026-02-13 15:51:05,989 - data_analyzer - INFO - data_analyzer.py:263 - 开始教育设施POI分析
+2026-02-13 15:51:08,546 - data_analyzer - INFO - data_analyzer.py:302 - 开始医疗设施POI分析
+2026-02-13 15:51:11,744 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 15:51:16,490 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:51:16,491 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:51:16,491 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试1/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:51:17,493 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:51:17,494 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:51:17,494 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试2/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:51:18,496 - db_utils - ERROR - db_utils.py:142 - ❌ 执行SQL失败：table analysis_results has no column named traffic_type_ratio
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\db_utils.py", line 126, in execute
+    self.cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+sqlite3.OperationalError: table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:51:18,498 - db_utils - WARNING - db_utils.py:145 - ⚠️ 事务回滚
+2026-02-13 15:51:18,498 - db_utils - WARNING - db_utils.py:42 - ❌ 执行失败（重试3/3）：table analysis_results has no column named traffic_type_ratio
+2026-02-13 15:51:18,499 - db_utils - ERROR - db_utils.py:44 - ❌ 达到最大重试次数（3次），执行失败
+2026-02-13 15:54:15,956 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:54:15,967 - db_utils - INFO - drop:11 - ✅ 旧的analysis_results表已成功删除
+2026-02-13 15:54:46,767 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:54:46,768 - db_utils - INFO - init_db.py:135 - ==================================================
+2026-02-13 15:54:46,768 - db_utils - INFO - init_db.py:136 - 🌍 开始初始化天地图分析工具数据库
+2026-02-13 15:54:46,768 - db_utils - INFO - init_db.py:137 - ==================================================
+2026-02-13 15:54:46,769 - db_utils - INFO - init_db.py:129 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 15:54:46,769 - db_utils - INFO - init_db.py:129 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 15:54:46,770 - db_utils - INFO - init_db.py:129 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 15:54:46,777 - db_utils - INFO - init_db.py:129 - ✅ 分析结果表创建成功（或已存在）
+2026-02-13 15:54:46,777 - db_utils - INFO - init_db.py:129 - ✅ 报告表创建成功（或已存在）
+2026-02-13 15:54:46,778 - db_utils - INFO - init_db.py:139 - ==================================================
+2026-02-13 15:54:46,778 - db_utils - INFO - init_db.py:140 - 🌍 数据库初始化完成
+2026-02-13 15:54:46,778 - db_utils - INFO - init_db.py:141 - ==================================================
+2026-02-13 15:55:36,057 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 15:55:36,058 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 15:55:42,549 - data_analyzer - INFO - data_analyzer.py:181 - 开始生活服务POI分析
+2026-02-13 15:55:46,622 - data_analyzer - INFO - data_analyzer.py:223 - 开始商业设施POI分析
+2026-02-13 15:55:54,413 - data_analyzer - INFO - data_analyzer.py:263 - 开始教育设施POI分析
+2026-02-13 15:55:56,997 - data_analyzer - INFO - data_analyzer.py:302 - 开始医疗设施POI分析
+2026-02-13 15:56:00,183 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 15:56:04,909 - data_analyzer - INFO - data_analyzer.py:492 - 分析结果写入数据库成功（含6大类POI+交叉洞察）
+2026-02-13 15:56:04,909 - data_analyzer - INFO - data_analyzer.py:557 - 开始自定义POI分析
+2026-02-13 15:56:06,881 - data_analyzer - INFO - data_analyzer.py:585 - 自定义POI分析完成：共30个POI，密度3.52个/平方公里
+2026-02-13 15:56:06,881 - data_analyzer - INFO - data_analyzer.py:607 - 全量分析测试完成！
+2026-02-13 16:06:33,203 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 16:06:33,560 - db_utils - INFO - init_db.py:129 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 16:06:33,560 - db_utils - INFO - init_db.py:129 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 16:06:33,560 - db_utils - INFO - init_db.py:129 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 16:06:33,561 - db_utils - INFO - init_db.py:129 - ✅ 分析结果表创建成功（或已存在）
+2026-02-13 16:06:33,561 - db_utils - INFO - init_db.py:129 - ✅ 报告表创建成功（或已存在）
+2026-02-13 16:06:33,749 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-13 16:06:42,114 - image_fetcher - INFO - image_fetcher.py:49 - 瓦片范围：TileCol[210~211], TileRow[96~97], zoom=8
+2026-02-13 16:06:42,255 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：8_210_96.png
+2026-02-13 16:06:42,403 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：8_210_97.png
+2026-02-13 16:06:42,550 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：8_211_96.png
+2026-02-13 16:06:42,682 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：8_211_97.png
+2026-02-13 16:06:42,682 - image_fetcher - INFO - image_fetcher.py:119 - 批量写入瓦片信息到数据库（共4条）
+2026-02-13 16:06:42,684 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：4
+2026-02-13 16:06:42,689 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-13 16:06:42,689 - image_fetcher - INFO - image_fetcher.py:133 - 瓦片下载完成：成功4条，总计4条
+2026-02-13 16:06:42,815 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_160640_7pj6qk\merged_map.jpg
+2026-02-13 16:06:42,815 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260213_160640_7pj6qk）
+2026-02-13 16:06:42,821 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-13 16:06:42,841 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 16:06:46,083 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 16:06:49,906 - data_analyzer - INFO - data_analyzer.py:492 - 分析结果写入数据库成功（含6大类POI+交叉洞察）
+2026-02-13 16:06:49,908 - visualization - INFO - visualization.py:214 - 报告保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_160640_7pj6qk\analysis_report.html
+2026-02-13 16:06:49,908 - visualization - INFO - visualization.py:218 - 写入报告信息到数据库（operation_id：20260213_160640_7pj6qk）
+2026-02-13 16:06:49,913 - visualization - INFO - visualization.py:238 - 报告信息写入数据库成功
+2026-02-13 16:06:49,919 - visualization - INFO - visualization.py:250 - 分析洞察更新到数据库成功
+2026-02-13 16:06:49,920 - db_utils - INFO - gui_main.py:547 - ✅ 分析+报告写入事务提交成功
+2026-02-13 16:06:49,934 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-13 16:06:56,853 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-13 16:07:24,817 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260212_174512_g3h7a5）
+2026-02-13 16:07:24,833 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260212_174512_g3h7a5
+2026-02-13 16:07:25,735 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-13 16:07:29,492 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260213_160640_7pj6qk）
+2026-02-13 16:07:29,508 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_160640_7pj6qk
+2026-02-13 16:07:30,103 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-13 16:07:31,395 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭
+2026-02-13 16:28:37,354 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 16:28:37,356 - visualization - ERROR - visualization.py:366 - 报告生成失败：[Errno 2] No such file or directory: 'output/20260212_163000_8f9e7d/analysis_report.html'
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\visualization.py", line 324, in generate_report
+    with open(output_path, "w", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'output/20260212_163000_8f9e7d/analysis_report.html'
+2026-02-13 16:34:19,143 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 16:34:19,146 - visualization - INFO - visualization.py:331 - 报告保存成功：output\20260213_163000_test\analysis_report.html
+2026-02-13 16:34:19,147 - visualization - INFO - visualization.py:335 - 写入报告信息到数据库（operation_id：20260213_163000_test）
+2026-02-13 16:34:19,159 - visualization - INFO - visualization.py:355 - 报告信息写入数据库成功
+2026-02-13 16:34:19,161 - visualization - INFO - visualization.py:367 - 分析洞察更新到数据库成功
+2026-02-13 16:34:38,091 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 16:34:38,393 - db_utils - INFO - init_db.py:129 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 16:34:38,393 - db_utils - INFO - init_db.py:129 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 16:34:38,393 - db_utils - INFO - init_db.py:129 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 16:34:38,394 - db_utils - INFO - init_db.py:129 - ✅ 分析结果表创建成功（或已存在）
+2026-02-13 16:34:38,394 - db_utils - INFO - init_db.py:129 - ✅ 报告表创建成功（或已存在）
+2026-02-13 16:34:38,575 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-13 16:34:50,318 - image_fetcher - INFO - image_fetcher.py:49 - 瓦片范围：TileCol[834~834], TileRow[444~444], zoom=10
+2026-02-13 16:34:50,521 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：10_834_444.png
+2026-02-13 16:34:50,521 - image_fetcher - INFO - image_fetcher.py:119 - 批量写入瓦片信息到数据库（共1条）
+2026-02-13 16:34:50,523 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：1
+2026-02-13 16:34:50,528 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-13 16:34:50,528 - image_fetcher - INFO - image_fetcher.py:133 - 瓦片下载完成：成功1条，总计1条
+2026-02-13 16:34:50,609 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_163449_iy4ed1\merged_map.jpg
+2026-02-13 16:34:50,610 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260213_163449_iy4ed1）
+2026-02-13 16:34:50,616 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-13 16:34:50,636 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 16:34:56,820 - data_analyzer - INFO - data_analyzer.py:181 - 开始生活服务POI分析
+2026-02-13 16:35:00,653 - data_analyzer - INFO - data_analyzer.py:223 - 开始商业设施POI分析
+2026-02-13 16:35:07,605 - data_analyzer - INFO - data_analyzer.py:263 - 开始教育设施POI分析
+2026-02-13 16:35:10,158 - data_analyzer - INFO - data_analyzer.py:302 - 开始医疗设施POI分析
+2026-02-13 16:35:13,342 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 16:35:17,997 - data_analyzer - INFO - data_analyzer.py:492 - 分析结果写入数据库成功（含6大类POI+交叉洞察）
+2026-02-13 16:35:17,998 - db_utils - ERROR - gui_main.py:576 - ❌ 分析+报告写入事务回滚：'TiandituAnalyzerGUI' object has no attribute 'generate_insights'
+Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\tianditu_analyzer\gui_main.py", line 550, in run_analysis_report_with_transaction
+    analysis_result["insights"] = self.generate_insights(analysis_result)
+                                  ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'TiandituAnalyzerGUI' object has no attribute 'generate_insights'
+2026-02-13 16:39:21,091 - db_utils - INFO - db_utils.py:94 - ✅ 数据库连接成功（SQLite）：c:\Users\Administrator\Desktop\tianditu_analyzer\tianditu_analysis.db
+2026-02-13 16:39:21,349 - db_utils - INFO - init_db.py:129 - ✅ 操作主表创建成功（或已存在）
+2026-02-13 16:39:21,349 - db_utils - INFO - init_db.py:129 - ✅ 瓦片信息表创建成功（或已存在）
+2026-02-13 16:39:21,350 - db_utils - INFO - init_db.py:129 - ✅ 拼接地图表创建成功（或已存在）
+2026-02-13 16:39:21,350 - db_utils - INFO - init_db.py:129 - ✅ 分析结果表创建成功（或已存在）
+2026-02-13 16:39:21,350 - db_utils - INFO - init_db.py:129 - ✅ 报告表创建成功（或已存在）
+2026-02-13 16:39:21,517 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-13 16:39:28,889 - image_fetcher - INFO - image_fetcher.py:49 - 瓦片范围：TileCol[843~844], TileRow[387~388], zoom=10
+2026-02-13 16:39:29,045 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：10_843_387.png
+2026-02-13 16:39:29,211 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：10_843_388.png
+2026-02-13 16:39:29,357 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：10_844_387.png
+2026-02-13 16:39:29,520 - image_fetcher - INFO - image_fetcher.py:104 - 下载瓦片成功：10_844_388.png
+2026-02-13 16:39:29,520 - image_fetcher - INFO - image_fetcher.py:119 - 批量写入瓦片信息到数据库（共4条）
+2026-02-13 16:39:29,522 - db_utils - INFO - db_utils.py:169 - ✅ 批量插入完成，总条数：4
+2026-02-13 16:39:29,526 - db_utils - INFO - db_utils.py:64 - ✅ 事务提交成功
+2026-02-13 16:39:29,526 - image_fetcher - INFO - image_fetcher.py:133 - 瓦片下载完成：成功4条，总计4条
+2026-02-13 16:39:29,605 - image_merger - INFO - image_merger.py:83 - 拼接图保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_163927_egddse\merged_map.jpg
+2026-02-13 16:39:29,605 - image_merger - INFO - image_merger.py:91 - 写入拼接地图信息到数据库（operation_id：20260213_163927_egddse）
+2026-02-13 16:39:29,611 - image_merger - INFO - image_merger.py:114 - 拼接地图信息写入数据库成功
+2026-02-13 16:39:29,631 - data_analyzer - INFO - data_analyzer.py:342 - 开始交通POI分析
+2026-02-13 16:39:32,920 - data_analyzer - INFO - data_analyzer.py:181 - 开始生活服务POI分析
+2026-02-13 16:39:36,724 - data_analyzer - INFO - data_analyzer.py:223 - 开始商业设施POI分析
+2026-02-13 16:39:39,984 - data_analyzer - INFO - data_analyzer.py:263 - 开始教育设施POI分析
+2026-02-13 16:39:42,550 - data_analyzer - INFO - data_analyzer.py:302 - 开始医疗设施POI分析
+2026-02-13 16:39:45,728 - data_analyzer - INFO - data_analyzer.py:383 - 开始文化POI分析
+2026-02-13 16:39:49,497 - data_analyzer - INFO - data_analyzer.py:492 - 分析结果写入数据库成功（含6大类POI+交叉洞察）
+2026-02-13 16:39:49,500 - visualization - INFO - visualization.py:331 - 报告保存成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_163927_egddse\analysis_report.html
+2026-02-13 16:39:49,500 - visualization - INFO - visualization.py:335 - 写入报告信息到数据库（operation_id：20260213_163927_egddse）
+2026-02-13 16:39:49,505 - visualization - INFO - visualization.py:355 - 报告信息写入数据库成功
+2026-02-13 16:39:49,511 - visualization - INFO - visualization.py:367 - 分析洞察更新到数据库成功
+2026-02-13 16:39:49,512 - db_utils - INFO - gui_main.py:550 - ✅ 分析+报告写入事务提交成功
+2026-02-13 16:39:49,526 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-13 16:41:09,347 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-13 16:41:09,382 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共2条
+2026-02-13 16:41:14,934 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-13 16:42:42,260 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260213_163449_iy4ed1）
+2026-02-13 16:42:42,274 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_163449_iy4ed1
+2026-02-13 16:42:43,312 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共1条
+2026-02-13 16:42:45,987 - history_query - INFO - history_query.py:104 - ✅ 数据库记录删除成功（operation_id：20260213_163927_egddse）
+2026-02-13 16:42:46,001 - history_query - INFO - history_query.py:109 - ✅ 输出文件夹删除成功：C:\Users\Administrator\Desktop\tianditu_analyzer\output\20260213_163927_egddse
+2026-02-13 16:42:46,713 - history_query - INFO - history_query.py:70 - ✅ 查询历史记录成功：共0条
+2026-02-13 16:42:50,965 - db_utils - INFO - db_utils.py:181 - ✅ 数据库连接已关闭

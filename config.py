@@ -5,8 +5,7 @@ from dotenv import load_dotenv
 DOTENV_PATH = os.path.join(os.path.dirname(__file__), ".env")
 load_dotenv(dotenv_path=DOTENV_PATH, encoding='utf-8')
 
-# ===================== 基础密钥配置（保留原有逻辑，仅优化注释） =====================
-# 严格校验天地图密钥（无密钥立即报错，避免泄露风险）
+# ===================== 天地图密钥配置（保留原有逻辑） =====================
 TIANDITU_KEY = os.getenv("TIANDITU_KEY")
 if not TIANDITU_KEY or TIANDITU_KEY.strip() == "your_actual_key_here":
     raise EnvironmentError(
@@ -15,56 +14,74 @@ if not TIANDITU_KEY or TIANDITU_KEY.strip() == "your_actual_key_here":
         "🔒 安全提示：.env 已加入 .gitignore，请勿提交到代码仓库！"
     )
 
-# ===================== 新增：瓦片类型配置（核心扩展） =====================
-# 天地图瓦片类型映射（中文名称 → 天地图标识 → URL模板）
-# 官方文档：https://www.tianditu.gov.cn/docs/jsdk/index.html#2
+# ===================== 新增：高德API配置（核心修改） =====================
+# 高德Web服务API Key（从.env读取）
+AMAP_KEY = os.getenv("AMAP_KEY")
+# 高德API URL模板（统一管理，方便后续修改）
+AMAP_POI_URL = "https://restapi.amap.com/v3/place/polygon"
+AMAP_GEOCODE_URL = "https://restapi.amap.com/v3/geocode/geo"
+
+# 高德Key校验（非强制，无Key时触发降级分析）
+if not AMAP_KEY or AMAP_KEY.strip() == "your_amap_key_here":
+    print("⚠️ 未配置有效高德API Key，将启用降级分析（无POI数据）！")
+    print("👉 请在.env文件中添加：AMAP_KEY=你的高德Web服务API Key")
+
+# ===================== 原有瓦片类型/缩放等级配置（保留） =====================
 TIANDITU_TILE_TYPES = {
     "矢量图": {
-        "code": "vec_w",       # 天地图矢量瓦片标识
+        "code": "vec_w",
         "url_template": f"https://t0.tianditu.gov.cn/DataServer?T=vec_w&x={{x}}&y={{y}}&l={{z}}&tk={TIANDITU_KEY.strip()}"
     },
     "影像图": {
-        "code": "img_w",       # 天地图影像瓦片标识（卫星图）
+        "code": "img_w",
         "url_template": f"https://t0.tianditu.gov.cn/DataServer?T=img_w&x={{x}}&y={{y}}&l={{z}}&tk={TIANDITU_KEY.strip()}"
     },
     "地形地图": {
-        "code": "ter_w",       # 天地图地形瓦片标识
+        "code": "ter_w",
         "url_template": f"https://t0.tianditu.gov.cn/DataServer?T=ter_w&x={{x}}&y={{y}}&l={{z}}&tk={TIANDITU_KEY.strip()}"
     },
     "注记图层": {
-        "code": "cva_w",       # 天地图注记瓦片标识（文字标注，需叠加在矢量/影像上）
+        "code": "cva_w",
         "url_template": f"https://t0.tianditu.gov.cn/DataServer?T=cva_w&x={{x}}&y={{y}}&l={{z}}&tk={TIANDITU_KEY.strip()}"
     }
 }
-# 默认瓦片类型（后续交互层可覆盖）
 DEFAULT_TILE_TYPE = "矢量图"
 
-# ===================== 缩放等级动态化配置（核心扩展） =====================
-# 天地图缩放等级说明：1（全球）- 18（街区级），级数越高精度越高
-ZOOM_LEVEL_RANGE = (1, 18)          # 缩放等级合法范围
-DEFAULT_ZOOM_LEVEL = 12             # 默认缩放等级（城市级）
-# 缩放等级精度说明（用于交互层提示用户）
+ZOOM_LEVEL_RANGE = range(1, 19)
+DEFAULT_ZOOM_LEVEL = 12
 ZOOM_LEVEL_DESC = {
-    1-5: "全球/国家级别",
-    6-10: "省级/市级概览",
-    11-15: "城市/区县级别（常用）",
-    16-18: "街区/门址级别（高精度）"
+    "1-5": "全球/国家级别",
+    "6-10": "省级/市级概览",
+    "11-15": "城市/区县级别（常用）",
+    "16-18": "街区/门址级别（高精度）"
 }
 
-# ===================== 新增：用户地址存储（用于报告展示） =====================
-# 初始值为空，后续由交互层（gui_main/main.py）赋值
 USER_QUERY_ADDRESS = ""
 
-# ===================== 原有输出路径配置（完全保留，确保兼容） =====================
+# ===================== 原有输出路径配置（保留） =====================
 OUTPUT_DIR = "output"
 TILE_DIR = f"{OUTPUT_DIR}/tiles"
 MERGED_IMAGE = f"{OUTPUT_DIR}/merged_map.jpg"
 ANALYSIS_REPORT = f"{OUTPUT_DIR}/analysis_report.html"
 
-# ===================== 原有区域边界配置（保留，可被动态地址覆盖） =====================
 BOUNDS = {
     "min_lon": float(os.getenv("MIN_LON", 116.30)),
     "max_lon": float(os.getenv("MAX_LON", 116.33)),
     "min_lat": float(os.getenv("MIN_LAT", 39.97)),
     "max_lat": float(os.getenv("MAX_LAT", 40.00))
 }
+
+# ===================== 新增：数据库配置（核心修复） =====================
+# 数据库类型（默认SQLite）
+DB_TYPE = os.getenv("DB_TYPE", "sqlite")
+# SQLite配置（默认存储在项目根目录）
+DB_PATH = os.getenv("DB_PATH", os.path.join(os.path.dirname(__file__), "tianditu_analysis.db"))
+# 数据库连接超时（秒）
+DB_TIMEOUT = int(os.getenv("DB_TIMEOUT", 30))
+
+# MySQL/PostgreSQL配置（后续迁移用，当前注释）
+# DB_HOST = os.getenv("DB_HOST", "localhost")
+# DB_PORT = int(os.getenv("DB_PORT", 3306))
+# DB_USER = os.getenv("DB_USER", "root")
+# DB_PWD = os.getenv("DB_PWD", "")
+# DB_NAME = os.getenv("DB_NAME", "tianditu_analysis")

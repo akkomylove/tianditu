@@ -1,13 +1,20 @@
-# 核心依赖
+# 核心依赖（按功能分类，版本兼容Python≥3.8）
+# 网络请求（瓦片下载/POI接口调用）
 requests>=2.31.0
+# 图像处理（瓦片拼接/有效性校验）
 Pillow>=10.3.0
+# 数据处理（元数据存储/POI统计分析）
 pandas>=2.2.0
 numpy>=1.26.3
+# 可视化（报告图表生成）
 matplotlib>=3.8.2
 seaborn>=0.13.2
-
-# 🔒 安全关键：环境变量管理
+# 🔒 安全关键：环境变量管理（密钥配置）
 python-dotenv>=1.0.0
-
-#地理编码库版本
+# 地理编码（地址转经纬度）
 geopy==2.4.1
+
+# 备注：
+# 1. Python版本要求 ≥3.8（支持f-string、concurrent.futures等特性）
+# 2. tkinter：Windows默认自带，Linux需手动安装（sudo apt-get install python3-tk）
+# 3. sqlite3：Python内置，无需额外安装（数据库存储）

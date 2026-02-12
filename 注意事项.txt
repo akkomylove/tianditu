@@ -1,25 +1,58 @@
 ⚠️ 常见问题解决方案（必读！）
-
 Q1: 双击启动报错"Python不是内部命令"？
 A: 请重新安装Python，安装时务必勾选【Add Python to PATH】！
    （绿色免安装版联系作者获取）
 
 Q2: 提示"未找到TIANDITU_KEY"？
 A: 1. 打开项目根目录的 .env 文件
-   2. 将 TIANDITU_KEY=your_actual_key_here 改为你的密钥
+   2. 将 TIANDITU_KEY=your_actual_key_here 改为你的天地图服务器端密钥
    3. 保存后重新双击【🚀 一键启动.bat】
 
 Q3: 地理编码查询超时？
 A: 首次查询需联网，建议：
-   • 检查网络连接
-   • 尝试输入更详细地址（如"北京市海淀区中关村"）
-   • 或直接输入经纬度：116.30,116.33,39.97,40.00
+   • 检查网络连接（确保能访问天地图官网：https://www.tianditu.gov.cn/）
+   • 尝试输入更详细地址（如"北京市海淀区中关村大街"）
+   • 或直接输入经纬度边界：min_lon,max_lon,min_lat,max_lat（例：116.30,116.33,39.97,40.00）
 
 Q4: 报告生成后无法打开？
-A: 手动打开 output/analysis_report.html（用浏览器）
+A: 1. 手动导航到 output/[操作ID]/analysis_report.html
+   2. 右键选择浏览器打开（推荐Chrome/Edge）
+   3. 若文件不存在，检查日志中"报告生成失败"的报错信息
+
+Q5: 瓦片下载后是空白/提示404？
+A: 天地图WMTS接口对URL要求极严，按以下步骤排查：
+   1. 确认URL参数：Format=image/png（不是tiles）、layer=vec/img（无_w）、tk放URL最前面
+   2. 确认参数大小写：Service=WMTS、Request=GetTile（首字母大写，和参考代码一致）
+   3. 确认URL路径：vec_w/img_w（带_w，如http://t0.tianditu.gov.cn/vec_w/wmts?...）
+   4. 复制日志中的瓦片URL，浏览器直接打开，排查是否返回有效图片
+
+Q6: 提示"layer参数错误"？
+A: 区分两个关键配置：
+   • 接口layer参数：vec/img（无_w，用于URL参数）
+   • URL路径后缀：vec_w/img_w（带_w，用于拼接URL）
+   核对 config.py 中 TIANDITU_TILE_TYPES 的 layer 字段是否正确（如"矢量图"对应 layer="vec"）
+
+Q7: 服务器端部署时下载失败？
+A: 1. 移除代码中所有请求头（header），服务器端密钥无需模拟浏览器
+   2. 检查天地图密钥的IP白名单：已绑定当前服务器公网IP
+   3. 检查密钥权限：已开启WMTS接口访问权限（天地图控制台配置）
+
+Q8: 瓦片拼接失败/拼接图空白？
+A: 1. 检查瓦片文件夹：是否存在有效瓦片（单张文件大小>100字节）
+   2. 检查瓦片坐标：x/y范围是否合理（无负数、无超大值）
+   3. 清理无效瓦片：删除 output/[操作ID]/tiles 中<100字节的空白文件，重新下载
+
+Q9: 数据库写入失败/事务回滚？
+A: 1. 检查数据库文件权限：tianditu_analysis.db 有读写权限
+   2. 检查参数数量：SQL占位符（?）数量与传入参数一致
+   3. 查看日志：tianditu_db.log 中是否有"主键重复"等完整性错误
 
 💡 专业提示：
-• 所有敏感信息通过 .env 管理，符合企业安全规范
-• output/ 目录存放生成的地图和报告
-• location_cache.json 为地理编码缓存（可删除）
-• 项目已配置 .gitignore，避免误提交密钥
+• 敏感信息管理：所有密钥（TIANDITU_KEY/AMAP_KEY）通过 .env 文件配置，切勿硬编码
+• 输出目录：output/[操作ID]/ 下按功能分类（tiles=瓦片，analysis_report.html=报告，merged_map.jpg=拼接图）
+• 缓存文件：location_cache.json 为地理编码缓存，删除后会重新请求接口（不影响核心功能）
+• 日志排查：
+  - tianditu_db.log：数据库操作日志
+  - 运行日志：GUI界面可查看，或查看项目根目录的 log.txt（若配置了文件日志）
+• 版本兼容：避免随意升级依赖版本（尤其是 requests/Pillow），优先使用 requirements.txt 中指定的版本
+• 密钥维护：天地图密钥有效期1年，到期前需在官网重新申请并更新 .env 文件

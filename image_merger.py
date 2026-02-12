@@ -1,6 +1,9 @@
 import os
 from PIL import Image
-from config import TILE_DIR, MERGED_IMAGE, ZOOM_LEVEL
+from config import (
+    TIANDITU_KEY, DEFAULT_ZOOM_LEVEL, BOUNDS, TILE_DIR,
+    TIANDITU_TILE_TYPES, DEFAULT_TILE_TYPE, MERGED_IMAGE
+)
 import math
 
 def merge_tiles(metadata_df):

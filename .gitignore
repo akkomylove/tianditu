@@ -1,4 +1,31 @@
-.env
+# Python相关
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+.eggs/
+dist/
+build/
+*.pyd
+*.pyo
+
+# 项目生成的文件（核心：忽略output目录，避免上传大图片/报告）
 output/
+*.log
+*.db
+*.sqlite
+merged_map.jpg
+
+# Windows系统文件
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+
+# 敏感配置文件（如有API密钥/密码，需单独忽略）
+config_secret.py
+*.key

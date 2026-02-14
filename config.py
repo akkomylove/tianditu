@@ -1,7 +1,6 @@
 import os
 from dotenv import load_dotenv
 
-<<<<<<< HEAD
 # 关键修复：指定.env的绝对路径+UTF-8编码，确保无论在哪运行都能读到
 DOTENV_PATH = os.path.join(os.path.dirname(__file__), ".env")
 load_dotenv(dotenv_path=DOTENV_PATH, encoding='utf-8')
@@ -9,21 +8,12 @@ load_dotenv(dotenv_path=DOTENV_PATH, encoding='utf-8')
 # ===================== 天地图密钥配置（保留原有逻辑） =====================
 TIANDITU_KEY = os.getenv("TIANDITU_KEY")
 if not TIANDITU_KEY or TIANDITU_KEY.strip() == "your_actual_key_here":
-=======
-# 优先加载项目根目录的 .env 文件
-load_dotenv()
-
-# 严格校验密钥（无密钥立即报错，避免泄露风险）
-TIANDITU_KEY = os.getenv("TIANDITU_KEY")
-if not TIANDITU_KEY or TIANDITU_KEY == "your_actual_key_here":
->>>>>>> f8d32f88976298bf651187a413419c65a4f0185b
     raise EnvironmentError(
         "❌ 未配置有效天地图密钥！\n"
         "👉 请执行：cp .env.example .env && 编辑 .env 填入真实密钥\n"
         "🔒 安全提示：.env 已加入 .gitignore，请勿提交到代码仓库！"
     )
 
-<<<<<<< HEAD
 # ===================== 新增：高德API配置（核心修改） =====================
 # 高德Web服务API Key（从.env读取）
 AMAP_KEY = os.getenv("AMAP_KEY")
@@ -74,19 +64,12 @@ TILE_DIR = f"{OUTPUT_DIR}/tiles"
 MERGED_IMAGE = f"{OUTPUT_DIR}/merged_map.jpg"
 ANALYSIS_REPORT = f"{OUTPUT_DIR}/analysis_report.html"
 
-=======
-# 安全构建API URL
-TIANDITU_URL = f"http://t0.tianditu.gov.cn/DataServer?T=vec_w&x={{x}}&y={{y}}&l={{z}}&tk={TIANDITU_KEY}"
-
-# 从环境变量读取区域配置（带默认值）
->>>>>>> f8d32f88976298bf651187a413419c65a4f0185b
 BOUNDS = {
     "min_lon": float(os.getenv("MIN_LON", 116.30)),
     "max_lon": float(os.getenv("MAX_LON", 116.33)),
     "min_lat": float(os.getenv("MIN_LAT", 39.97)),
     "max_lat": float(os.getenv("MAX_LAT", 40.00))
 }
-<<<<<<< HEAD
 
 # ===================== 新增：数据库配置（核心修复） =====================
 # 数据库类型（默认SQLite）
@@ -102,12 +85,3 @@ DB_TIMEOUT = int(os.getenv("DB_TIMEOUT", 30))
 # DB_USER = os.getenv("DB_USER", "root")
 # DB_PWD = os.getenv("DB_PWD", "")
 # DB_NAME = os.getenv("DB_NAME", "tianditu_analysis")
-=======
-ZOOM_LEVEL = int(os.getenv("ZOOM_LEVEL", 12))
-
-# 输出路径（保持不变）
-OUTPUT_DIR = "output"
-TILE_DIR = f"{OUTPUT_DIR}/tiles"
-MERGED_IMAGE = f"{OUTPUT_DIR}/merged_map.jpg"
-ANALYSIS_REPORT = f"{OUTPUT_DIR}/analysis_report.html"
->>>>>>> f8d32f88976298bf651187a413419c65a4f0185b

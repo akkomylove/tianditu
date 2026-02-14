@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python相关
 __pycache__/
 *.py[cod]
@@ -30,9 +29,3 @@ Thumbs.db
 # 敏感配置文件（如有API密钥/密码，需单独忽略）
 config_secret.py
 *.key
-=======
-.env
-__pycache__/
-*.pyc
-output/
->>>>>>> f8d32f88976298bf651187a413419c65a4f0185b
